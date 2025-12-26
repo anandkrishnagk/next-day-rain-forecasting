@@ -1,0 +1,18 @@
+# Virtual Environment
+ml_rain_pjctenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.sav
+*.pkl
+
+# Data files
+*.csv
+
+# OS
+.DS_Store
